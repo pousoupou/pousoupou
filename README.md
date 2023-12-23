@@ -1,7 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Stelios Papaspiros
 ==========================================================================================================================================
+
 CSE student
------------* 🌍  I'm based in Greece* 🖥️  See my portfolio at [my profile](http://github.com/pousoupou?tab=repositories)* ✉️  You can contact me at [stelios.papaspiros@gmail.com](mailto:stelios.papaspiros@gmail.com)* 🚀  I'm currently working on [a text parser written in C](http://github.com/pousoupou/parCer)* 🧠  I'm learning Low Level Programming, DSA, AI, Operating Systems* 🤝  I'm open to collaborating on other entry-level projects* ⚡  I like dogs
+-----------
+
+*   🌍  I'm based in Greece
+*   🖥️  See my portfolio at [my profile](http://github.com/pousoupou?tab=repositories)
+*   ✉️  You can contact me at [stelios.papaspiros@gmail.com](mailto:stelios.papaspiros@gmail.com)
+*   🚀  I'm currently working on [a text parser written in C](http://github.com/pousoupou/parCer)
+*   🧠  I'm learning Low Level Programming, DSA, AI, Operating Systems
+*   🤝  I'm open to collaborating on other entry-level projects
+*   ⚡  I like dogs
 
 ### Skills
 
