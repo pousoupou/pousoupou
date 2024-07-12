@@ -7,7 +7,7 @@ CSE student
 *   🌍  I'm based in Greece
 *   🖥️  See my portfolio at [my profile](http://github.com/pousoupou?tab=repositories)
 *   ✉️  You can contact me at [stelios.papaspiros@gmail.com](mailto:stelios.papaspiros@gmail.com)
-*   🚀  I'm currently working on [a text parser written in C](http://github.com/pousoupou/parCer)
+*   🚀  I'm currently working on [a text parser written in C](http://github.com/pousoupou/parCer) and [an AI game written in plain Java](https://github.com/pousoupou/8-puzzle-AI)
 *   🧠  I'm learning Low Level Programming, DSA, AI, Operating Systems
 *   🤝  I'm open to collaborating on other entry-level projects
 *   ⚡  I like dogs
