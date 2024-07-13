@@ -47,7 +47,3 @@ CSE undergrad student
   <img src="https://streak-stats.demolab.com?user=pousoupou&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=pousoupou&theme=nord&column=1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/pousoupou/parCer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pousoupou&repo=parCer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
